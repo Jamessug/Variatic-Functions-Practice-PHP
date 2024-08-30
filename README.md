@@ -1,1 +1,1 @@
-# Variatic-Functions-Practice-PHP
+Practicing with Variatic Functions & Unpacking
